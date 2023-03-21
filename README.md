@@ -23,7 +23,7 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kapil619&theme=radical" />
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Kapil619}1212%2Fhit-counter"/>
 
 
 
