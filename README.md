@@ -16,7 +16,7 @@
 
 #Technologies i know: 🫡
 <div align="center">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style=padding-right:10px alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style=padding-right:20px alt="HTML" title="HTML" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style=padding-right:10px alt="CSS" title="CSS" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style=padding-right:10px alt="JavaScript" title="JavaScript" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" style=padding-right:10px alt="Bootstrap" title="Bootstrap" />
