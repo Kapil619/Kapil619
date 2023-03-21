@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=40&pause=1000&center=true&vCenter=true&width=440&height=55&lines=Hi+I'm+Kapil)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=40&pause=1000&center=true&vCenter=true&width=440&height=55&lines=Hi+I'm+Kapil)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on Building my Programming knowledge😁
@@ -14,13 +14,16 @@
 
 - 😄 Pronouns: He/Him
 
-### My Socials:
+## My Socials:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kapil-badokar)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilbadokar321@gmail.com)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kapil_badokar)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/630089077261336602)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kapil619/)
 
-# Technologies i know: 🫡
+## Technologies i know: 🫡
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+
 <img src="{BadgeURLHere}" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
