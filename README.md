@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kapil619&theme=radical" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kapil619" />
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Kapil619}1212%2Fhit-counter"/>
+
 
 
 
