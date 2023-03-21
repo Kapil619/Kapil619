@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Kapil619}&theme={radical}" />
+
 
 
 
