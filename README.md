@@ -1,18 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=435&lines=Hi+I'm+Kapil;Wlcm+to+my+profile)](https://git.io/typing-svg)
 
-#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1200&size=40&pause=1000&center=true&vCenter=true&width=440&height=55&lines=Hi+I'm+Kapil)](https://git.io/typing-svg)
+-  🔭 I’m currently working on Building my Programming knowledge 😁
 
-
-- 🔭 I’m currently working on Building my Programming knowledge😁
-
-- 🌱 I’m currently learning Back-End development.😎
+-  🌱 I’m currently learning Back-End development.😎
 
 - 👯 I’m looking to collaborate on Front-End Projects
 
 - 💬 Ask me about Python | Web-Development | Games |
 
-- 📫 How to reach me: kapilbadokar321@gmail.com
-
-- 😄 Pronouns: He/Him
 
 ## My Socials:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kapil-badokar)
@@ -22,17 +17,24 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kapil619/)
 
 ## Technologies i know: 🫡
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="{BadgeURLHere}" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](google.com)
+[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](google.com)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kapil619" />
+## My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kapil619&layout=compact"/>
+
+
+
 
 
 
