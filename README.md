@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kapil619&theme=radical" />
 
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=Kapil619"/>
 
 
 
