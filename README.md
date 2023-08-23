@@ -16,6 +16,9 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/630089077261336602)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kapil619/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kapil619&theme=dark)](https://git.io/streak-stats)
+
+
 ## Technologies i know: 🫡
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
