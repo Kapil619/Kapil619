@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=435&lines=Hi+I'm+Kapil;)](https://git.io/typing-svg)
 
--  🔭 I’m currently working on Building my Programming knowledge 😁
+-  🔭 I’m currently working on Fullstack Projects and mobile apps 😁
 
--  🌱 I’m currently learning Back-End development.😎
+-  🌱 I’m currently learning Mobile App development.😎
 
-- 👯 I’m looking to collaborate on Front-End Projects
+- 👯 I’m looking to collaborate on Fullstack Projects
 
-- 💬 Ask me about Python | Web-Development | Games |
+- 💬 Ask me about FullStack development | Python | Web-Development | Games |
 
 
 ## My Socials:
