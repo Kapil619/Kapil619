@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on Fullstack Projects
 
-- 💬 Ask me about FullStack development | Python | Web-Development | Games |
+- 💬 Ask me about FullStack development | Mobile Development | Games |
 
 
 ## My Socials:
