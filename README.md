@@ -36,6 +36,8 @@
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kapil619&label=Profile%20views&color=0e75b6&style=flat" alt="Kapil619" /> </p>
+
 
 
 
