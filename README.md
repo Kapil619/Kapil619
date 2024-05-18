@@ -105,8 +105,8 @@
 
 ## My Github Stats
 
-<img align="left" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat"/>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark"/><p/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true"/><p/>
 
 
