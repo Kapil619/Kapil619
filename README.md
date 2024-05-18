@@ -1,6 +1,15 @@
-<h1 align="center">Hi, I'm Kapil Badokar👽</h1>
+<h1 align="center">Hi, I'm Kapil Badokar</h1>
 
 <h2 align="center">Full-stack developer & Mobile App Developer .</h2>
+
+
+## My Github Stats
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark" style="margin-right: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kapil619&label=Profile%20views&color=0e75b6&style=flat" alt="Kapil619" /> </p>
 
 
@@ -103,10 +112,5 @@
 
 
 
-## My Github Stats
-
-<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark"/><p/>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true"/><p/>
 
 
