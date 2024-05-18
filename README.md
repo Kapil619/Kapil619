@@ -6,7 +6,7 @@
 ## My Github Stats
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark" style="margin-right: 10px;" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark" style="margin: 10px;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true" />
 </p>
 
