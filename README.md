@@ -15,7 +15,8 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark" style="margin: 10px;" />
   </p>
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /> 
+
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kapil619&label=Profile%20views&color=0e75b6&style=flat" alt="Kapil619" /> </p>
