@@ -12,7 +12,7 @@
 ## My Github Stats👨🏻‍💻
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Sun%2CSat&theme=dark" style="margin: 10px;" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Kapil619&exclude_days=Wec%2CThu&theme=dark" style="margin: 10px;" />
   </p>
   <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kapil619&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /> 
